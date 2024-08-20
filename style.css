@@ -45,6 +45,7 @@
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+    background: #e3f9ff;
   }
 
   form input .equal{
