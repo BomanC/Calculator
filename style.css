@@ -47,8 +47,8 @@
     box-shadow: none;
   }
 
-  form input .equal{
-    width: 146px;
+  form input.equal{
+    width: 145px;
   }
 
   form input .operator{
